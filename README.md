@@ -42,6 +42,9 @@ python map.py
 
 ```
 
+## :video_camera: Demo
+[Exploring SVNIT campus using Reinforcement Learning](https://www.youtube.com/watch?v=CnlHAsDeTIo)
+
 ## Contact
 
 Akash Shah - akashmshah19@gmail.com  
